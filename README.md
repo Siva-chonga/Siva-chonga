@@ -1,17 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sivaramakrishna Satya Manikantha</h1>
-<h3 align="center">Hi, I am Sivaramakrishna Satya Manikantha,I have completed  Bachelor of Technology in Mechanical Engineering from Godavari Institute of Engineering and Technology (GIET). I have expertise in Manual and Automation Testing. I interned at Cognizant as a QA Engineer. During my internship, I was responsible for both manual and automated testing of a banking application. I developed test cases, executed tests, and logged defects using tools like JIRA and Selenium. One of my proudest moments was developing an automation framework that streamlined the testing process and improved test coverage. This experience taught me the value of attention to detail, through documentation, and continuous learning. It provided me with a strong foundation in both manual and automation testing, preparing me for more complex testing roles in the future.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siva-chonga&label=Profile%20views&color=0e75b6&style=flat" alt="siva-chonga" /> </p>
-
-- 🔭 I’m currently working as an **intern at Cognizant**
-
-- 📫 How to reach me **sivachonga952@gmail.com**
-
+<h4 align="center">Hi, I'm Siva, a Quality Assurance Engineer dedicated to ensuring flawless software experiences. I hold a Bachelor of Technology in Mechanical Engineering from Godavari Institute of Engineering and Technology, and I have 6 months of hands-on experience in manual and automation testing. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+</h4>
+<h3 align="left">🚀 Skills & Interests:</h3>
+<li><b>🛠️ Testing Tools:</b> Selenium WebDriver,TestNG</li>
+<li><b>💻 Programming Languages:</b> Java</li>
+<li><b>🎯 Interests:</b> Problem-Solving, Making testing faster and more efficient and Protecting software from vulnerabilities.</li>
+<h3 align="left">🏆 Projects:</h3>
+<h4>Adactin Hotel App - Online hotel reservation system</h4>
+<li> User Interface & Booking: Users can view, select, and book rooms through an intuitive graphical interface. Available rooms are selectable booked rooms are disabled.</li> 
+<li> Online Payment & Receipts: The system calculates total costs and processes payments via credit card, issuing an online receipt sent to the user's email.</li>
+<li> Testing Responsibilities: Includes understanding project documentation, designing test scenarios and cases, executing tests, documenting defects, and conducting selective testing with new changes. </li>
+<li> Key Skills: Manual Testing, Test Scenarios, Test Case Design, Test Execution, Bug Reporting, and Smoke Testing.</li>
+<li><a href="https://github.com/Siva-chonga/Adactin-Project-1" target="_blank">Project link</a></li>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/siva-chonga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siva-chonga" height="30" width="40" /></a>
-</p>
+<li>📧 Email:<a href="https://mail.google.com/mail/sivachonga952@gmail.com/" target="_blank"> sivachonga952@gmail.com</li>
+<li>💼 LinkedIn:<a href="https://in.linkedin.com/in/siva-chonga" target="_blank">siva-chonga</a></li>
+<li>🏗️ GitHub:<a href="https://github.com/Siva-chonga" target="_blank">Siva-chonga</a></li>
+<h3 align="left">💡Feedback Welcome!</h3>
+<p>I'm still learning and growing as a QA Engineer, So I welcome constructive feedback and suggestions. Feel free to reach out on any platform above—let's connect! 🚀</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 
