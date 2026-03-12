@@ -1,12 +1,23 @@
 <h1 align="center">Hi 👋, I'm Sivaramakrishna Satya Manikantha</h1>
-<h4 align="center">I’m a Data Analyst passionate about turning raw data into meaningful insights that drive better business decisions. I specialize in analyzing complex datasets, building dashboards, and delivering data-driven recommendations that help organizations improve performance and efficiency.
-
-I have professional experience working with data analysis, data cleaning, and reporting, where I helped teams transform large datasets into clear insights for decision-making.
+<h4 align="center">I’m a Data Analyst passionate about turning raw data into meaningful insights that drive better business decisions. I specialize in analyzing complex datasets, building dashboards, and delivering data-driven recommendations that help organizations improve performance and efficiency. I have professional experience working with data analysis, data cleaning, and reporting, where I helped teams transform large datasets into clear insights for decision-making.
 </h4>
-<h3 align="left">🚀 Skills & Interests:</h3>
-<li><b>🛠️ Testing Tools:</b> Selenium WebDriver,TestNG</li>
-<li><b>💻 Programming Languages:</b> Java</li>
-<li><b>🎯 Interests:</b> Problem-Solving, Making testing faster and more efficient and Protecting software from vulnerabilities.</li>
+<h3 align="left">💼 Professional Experience:</h3>
+<h3 align="left">Data Analyst – PE Content Services<br>
+Cognizant | Hyderabad, India<br>
+Nov 2024 – May 2025</h3>
+<li>Analyzed datasets containing 50K+ records to identify patterns and performance trends.</li>
+<li>Built Power BI dashboards to track KPIs and operational metrics, improving reporting visibility for stakeholders.</li>
+<li>Wrote optimized SQL queries to extract and transform data from multiple sources.</li>
+<li>Performed data cleaning and validation to improve data accuracy by 25%.</li>
+<li>Automated weekly reporting workflows using Python and Excel, reducing manual effort by 30%.</li>
+<li>Collaborated with cross-functional teams to translate business requirements into data-driven insights.</li>
+<h3 align="left">🛠 Technical Skills:</h3>
+<li>Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
+<li>Databases: SQL, MySQL</li>
+<li>Visualization: Power BI, Tableau</li>
+<li>Data Analysis: Data Cleaning, Data Wrangling, Statistical Analysis</li>
+<li>Tools: Excel, Google Sheets</li>
+<li>Other Skills: Business Intelligence, Data Modeling, Dashboard Development</li>
 <h3 align="left">🏆 Projects:</h3>
 <h4>Adactin Hotel App - Online hotel reservation system</h4>
 <li> User Interface & Booking: Users can view, select, and book rooms through an intuitive graphical interface. Available rooms are selectable booked rooms are disabled.</li> 
