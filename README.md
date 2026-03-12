@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sivaramakrishna Satya Manikantha</h1>
-<h4 align="center">Hi, I'm Siva, a Quality Assurance Engineer dedicated to ensuring flawless software experiences. I hold a Bachelor of Technology in Mechanical Engineering from Godavari Institute of Engineering and Technology, and I have 6 months of hands-on experience in manual and automation testing. This README is my playground to showcase my journey, skills, and aspirations. Let's dive in!
+<h4 align="center">I’m a Data Analyst passionate about turning raw data into meaningful insights that drive better business decisions. I specialize in analyzing complex datasets, building dashboards, and delivering data-driven recommendations that help organizations improve performance and efficiency.
+
+I have professional experience working with data analysis, data cleaning, and reporting, where I helped teams transform large datasets into clear insights for decision-making.
 </h4>
 <h3 align="left">🚀 Skills & Interests:</h3>
 <li><b>🛠️ Testing Tools:</b> Selenium WebDriver,TestNG</li>
