@@ -22,7 +22,7 @@ Nov 2024 – May 2025</h4>
 <li>Developed a Power BI dashboard analyzing regional sales and product performance.</li>
 <li>Used SQL and Excel to clean and transform sales datasets.</li>
 <li>Identified revenue trends and improved decision-making for sales strategy.</li>
-<<h3 align="left">Education:</h3>
+<h3 align="left">Education:</h3>
 Bachelor of Technology in Mechanical Engineering<br>
 Godavari Institute Of Engineering And Technology<br>
 Year of Graduation : 2023
