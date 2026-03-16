@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sivaramakrishna Satya Manikantha</h1>
 <h4 align="center">I’m a Data Analyst passionate about turning raw data into meaningful insights that drive better business decisions. I specialize in analyzing complex datasets, building dashboards, and delivering data-driven recommendations that help organizations improve performance and efficiency. I have professional experience working with data analysis, data cleaning, and reporting, where I helped teams transform large datasets into clear insights for decision-making.</h4>
 <h3 align="left">💼 Professional Experience:</h3>
+<h4 align="left">Sales Executive (Retail Analytics)<br>
+Croma(A Tata Enterprise | Hyderabad,India<br>
+Oct 2025 - Present  </h4>
+<li>Analyzed 10K+ retail sales records to identify customer purchasing patterns, improving product demand forecasting.</li>
+<li>Built automated Excel dashboards tracking KPIs including revenue growth, product performance, and inventory
+turnover.</li>
+<li>Conducted sales trend analysis to forecast demand and improve inventory planning.</li>
+<li>Identified underperforming product categories and recommended promotional strategies to increase sales.</li>
+<li>Delivered weekly and monthly analytical reports to support store management decisions.</li>
 <h4 align="left">Data Analyst – PE Content Services<br>
 Cognizant | Hyderabad, India<br>
 Nov 2024 – May 2025</h4>
