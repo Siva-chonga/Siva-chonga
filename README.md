@@ -2,8 +2,8 @@
 <h4 align="center">I’m a Data Analyst passionate about turning raw data into meaningful insights that drive better business decisions. I specialize in analyzing complex datasets, building dashboards, and delivering data-driven recommendations that help organizations improve performance and efficiency. I have professional experience working with data analysis, data cleaning, and reporting, where I helped teams transform large datasets into clear insights for decision-making.</h4>
 <h3 align="left">💼 Professional Experience:</h3>
 <h4 align="left">Sales Executive (Retail Analytics)<br>
-Croma(A Tata Enterprise | Hyderabad,India<br>
-Oct 2025 - Present  </h4>
+Croma(A Tata Enterprise) | Hyderabad,India<br>
+Oct 2025 - Present </h4>
 <li>Analyzed 10K+ retail sales records to identify customer purchasing patterns, improving product demand forecasting.</li>
 <li>Built automated Excel dashboards tracking KPIs including revenue growth, product performance, and inventory
 turnover.</li>
